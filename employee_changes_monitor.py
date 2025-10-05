@@ -148,7 +148,7 @@ def main():
             old_data.pop(emp_id)
 
     save_employees(old_data)
-    log("✅ Check finished\n")
+    log("Check finished\n")
 
 
 if __name__ == "__main__":
